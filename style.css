@@ -12,7 +12,7 @@ p{
     color: darkorange;
 }
 .simu{
-    width:30%;
+    width:40%;
     margin: 2%;
     padding:2% ;
     float: left;
@@ -22,7 +22,7 @@ p{
 
 }
 .simu img{
-    width: 100%;
+    width: 80%;
 }
 .banner{
        background-image: url(images/top-banner.png);
@@ -34,10 +34,15 @@ section{
 }
 .click{
     text-decoration: none;
-    background-image: -webkit-linear-gradient( 45deg,rgb(198, 135, 235),white);
+    background-image: -webkit-linear-gradient( 45deg,darkblue ,skyblue);
     border: black;
     padding: 5px 5px;
     border-radius: 20px;
-    color: black;
+    color: white;
     font-weight: bold;
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+       background-repeat: no-repeat;
+       background-position: right;
 }
